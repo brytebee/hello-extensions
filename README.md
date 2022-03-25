@@ -2,4 +2,4 @@
 
 ## Description
 
-In this simple tutorial I built a basic chrome extension
+In this simple tutorial I built a basic chrome extension.
